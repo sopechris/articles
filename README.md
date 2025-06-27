@@ -1,8 +1,6 @@
-# Articles
-
 This repository contains notes, summaries, and exploratory code based on two clinical research papers focused on detecting insulin infusion set failures using continuous glucose monitoring (CGM) data.
 
-## 🧪 Covered
+## 🧪 Articles Covered
 
 ### 1. [Continuous Glucose Monitoring Enables the Detection of Losses in Infusion Set Actuation (LISAs)](https://doi.org/10.2337/dc22-1523)
 **Authors:** Marc D. Breton et al.  
