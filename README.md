@@ -1,4 +1,4 @@
-# Covered Articles
+# Articles
 
 This repository contains notes, summaries, and exploratory code based on two clinical research papers focused on detecting insulin infusion set failures using continuous glucose monitoring (CGM) data.
 
