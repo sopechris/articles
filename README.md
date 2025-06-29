@@ -7,8 +7,7 @@ This repository contains notes, summaries, and exploratory code based on two cli
 **Journal:** *Diabetes Care*, 2023  
 **Focus:** Uses CGM data to identify undetected or progressive failures in insulin delivery (LISAs).  
 Includes:
-- Key findings
-- Visual explanations
+- Direct application of the results
 - Prototype code for identifying LISAs from CGM and insulin trends
 
 ---
