@@ -15,7 +15,7 @@ Includes:
 ### 2. [Randomized Trial of Infusion Set Function: Steel Versus Teflon](https://doi.org/10.2337/dc18-0386)
 **Authors:** Viral N. Shah et al.  
 **Journal:** *Diabetes Care*, 2018  
-**Focus:** Using Stanford's research group's criteria to determine failure in insulin pumps (using CGM and Bolus data).
+**Focus:** Using Stanford's research group's criteria to determine failure in insulin pumps (using CGM and Bolus data).  
 Includes:
 - Summary of trial design and failure definition
 - Code for reproducing their failure logic
